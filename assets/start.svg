@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="134" height="53" viewBox="0 0 134 53">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.098" y1="-0.05" x2="0.908" y2="1.092" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#187de9"/>
+      <stop offset="0.998" stop-color="#0258d6"/>
+      <stop offset="1" stop-color="#0258d6"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_11520" data-name="Group 11520" transform="translate(-235 -660)">
+    <rect id="Rectangle_44" data-name="Rectangle 44" width="134" height="53" rx="8" transform="translate(235 660)" fill="url(#linear-gradient)"/>
+    <g id="Group_11519" data-name="Group 11519">
+      <text id="Start" transform="translate(267 693)" fill="#fff" font-size="18" font-family="SFProText-Semibold, SF Pro Text" font-weight="600"><tspan x="0" y="0">Start</tspan></text>
+      <g id="Iconly_Bold_Arrow---Right" data-name="Iconly/Bold/Arrow---Right" transform="translate(316 675)">
+        <g id="Arrow---Right" transform="translate(3 6)">
+          <path id="Path_8961" data-name="Path 8961" d="M7.837,6.361l0-.354a27.29,27.29,0,0,1,.216-3.688l.114-.544A3.887,3.887,0,0,1,8.4.991,1.815,1.815,0,0,1,10,0h.058A5.031,5.031,0,0,1,11.4.408,22.644,22.644,0,0,1,16.994,4.2l.379.4a3.586,3.586,0,0,1,.28.334A1.768,1.768,0,0,1,18,5.992a1.856,1.856,0,0,1-.375,1.138l-.389.42h0l-.087.09a22.073,22.073,0,0,1-5.891,4.024l-.244.094a4.051,4.051,0,0,1-.955.242,2,2,0,0,1-.91-.219,1.885,1.885,0,0,1-.808-.9,9.785,9.785,0,0,1-.261-1.064A22.283,22.283,0,0,1,7.837,6.361ZM0,6A1.511,1.511,0,0,1,1.5,4.482l3.7.327a1.191,1.191,0,0,1,0,2.381l-3.7.327A1.511,1.511,0,0,1,0,6Z" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
